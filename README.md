@@ -1,2 +1,2 @@
 # Micrograd
-Micrograd (Autograd Engine) Repo
+Micrograd (Autograd Engine) Repo by Harish Balasubramanian
